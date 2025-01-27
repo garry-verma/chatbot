@@ -1,0 +1,15 @@
+# Node.js (frontend dependencies)
+frontend/node_modules/
+frontend/build/
+
+# Python (backend dependencies)
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Database
+db/*.sql
+
+# IDE settings and system files
+.DS_Store
+.vscode/

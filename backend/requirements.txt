@@ -1,0 +1,6 @@
+flask
+langgraph
+psycopg2-binary
+sqlalchemy
+openai
+langchain
